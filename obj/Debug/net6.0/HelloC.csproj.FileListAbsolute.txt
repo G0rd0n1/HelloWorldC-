@@ -1,0 +1,15 @@
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/bin/Debug/net6.0/HelloC
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/bin/Debug/net6.0/HelloC.deps.json
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/bin/Debug/net6.0/HelloC.runtimeconfig.json
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/bin/Debug/net6.0/HelloC.dll
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/bin/Debug/net6.0/HelloC.pdb
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/obj/Debug/net6.0/HelloC.csproj.AssemblyReference.cache
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/obj/Debug/net6.0/HelloC.GeneratedMSBuildEditorConfig.editorconfig
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/obj/Debug/net6.0/HelloC.AssemblyInfoInputs.cache
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/obj/Debug/net6.0/HelloC.AssemblyInfo.cs
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/obj/Debug/net6.0/HelloC.csproj.CoreCompileInputs.cache
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/obj/Debug/net6.0/HelloC.dll
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/obj/Debug/net6.0/refint/HelloC.dll
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/obj/Debug/net6.0/HelloC.pdb
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/obj/Debug/net6.0/HelloC.genruntimeconfig.cache
+/home/gordon/School/Code/PersonalProjects/C#/HelloC/obj/Debug/net6.0/ref/HelloC.dll
